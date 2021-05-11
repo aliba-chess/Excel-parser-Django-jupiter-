@@ -1,1 +1,1 @@
-# Excel-parser-Django-jupiter-
+# Excel-parser-Django-jupiter
